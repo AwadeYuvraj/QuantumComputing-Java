@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/inverter.xml" />
+        <option value="$PROJECT_DIR$/entanglement.xml" />
+        <option value="$PROJECT_DIR$/bell.xml" />
+        <option value="$PROJECT_DIR$/adder111.xml" />
+        <option value="$PROJECT_DIR$/deutschjozsa2.xml" />
+        <option value="$PROJECT_DIR$/grover.xml" />
+        <option value="$PROJECT_DIR$/adder00.xml" />
+        <option value="$PROJECT_DIR$/deutschjozsa.xml" />
+        <option value="$PROJECT_DIR$/deutschjozsa10.xml" />
+        <option value="$PROJECT_DIR$/superposition.xml" />
+        <option value="$PROJECT_DIR$/adder101.xml" />
+        <option value="$PROJECT_DIR$/teleport.xml" />
+        <option value="$PROJECT_DIR$/grovern.xml" />
+        <option value="$PROJECT_DIR$/bell2.xml" />
+        <option value="$PROJECT_DIR$/adder100.xml" />
+        <option value="$PROJECT_DIR$/teleport53.xml" />
+        <option value="$PROJECT_DIR$/eavesdropping.xml" />
+        <option value="$PROJECT_DIR$/teleport1.xml" />
+        <option value="$PROJECT_DIR$/adder11.xml" />
+        <option value="$PROJECT_DIR$/network.xml" />
+        <option value="$PROJECT_DIR$/deutschjozsa3.xml" />
+        <option value="$PROJECT_DIR$/swap.xml" />
+        <option value="$PROJECT_DIR$/bb84.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" project-jdk-name="13" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="simplestrangedemo (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="simplestrangedemo (1)" target="1.8" />
+      <module name="simplestrangedemo (10)" target="1.8" />
+      <module name="simplestrangedemo (11)" target="1.8" />
+      <module name="simplestrangedemo (12)" target="1.8" />
+      <module name="simplestrangedemo (13)" target="1.8" />
+      <module name="simplestrangedemo (14)" target="1.8" />
+      <module name="simplestrangedemo (15)" target="1.8" />
+      <module name="simplestrangedemo (16)" target="1.8" />
+      <module name="simplestrangedemo (17)" target="1.8" />
+      <module name="simplestrangedemo (18)" target="1.8" />
+      <module name="simplestrangedemo (19)" target="1.8" />
+      <module name="simplestrangedemo (2)" target="1.8" />
+      <module name="simplestrangedemo (20)" target="1.8" />
+      <module name="simplestrangedemo (21)" target="1.8" />
+      <module name="simplestrangedemo (22)" target="1.8" />
+      <module name="simplestrangedemo (23)" target="1.8" />
+      <module name="simplestrangedemo (4)" target="1.8" />
+      <module name="simplestrangedemo (5)" target="1.8" />
+      <module name="simplestrangedemo (6)" target="1.8" />
+      <module name="simplestrangedemo (7)" target="1.8" />
+      <module name="simplestrangedemo (8)" target="1.8" />
+      <module name="simplestrangedemo (9)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
